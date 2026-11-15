@@ -12,8 +12,8 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=AliAlperenCivil&theme=github-dark&mode=dark" alt="AliAlperenCivil's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=AliAlperenCivil&theme=nightowl&hide_border=true&cache_seconds=86400" alt="AliAlperenCivil's GitHub Streak" width="49%" />
+  <img src="https://www.gitskins.com/api/section/stats?username=AliAlperenCivil&theme=github-dark&mode=dark" alt="AliAlperenCivil's GitHub Stats" width="55%" />
+  <img src="https://streak-stats.demolab.com/?user=AliAlperenCivil&theme=nightowl&hide_border=true&cache_seconds=86400" alt="AliAlperenCivil's GitHub Streak" width="42%" />
 </p>
 
 <p align="center">
@@ -63,12 +63,7 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/ali-alperen-civil" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 8px;"/>
-  </a>
-  <a href="mailto:alialperencivil@gmail.com" title="alialperencivil@gmail.com">
-  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/>
-  </a>
+  <a href="https://www.linkedin.com/in/ali-alperen-civil" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" height="40" /></a>&nbsp;&nbsp;<a href="mailto:alialperencivil@gmail.com" title="alialperencivil@gmail.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" /></a>
 </p>
 
 <p align="center">
