@@ -75,5 +75,9 @@
 </p>
 
 <p align="center">
-  <img alt="github-snake" src="https://www.gitskins.com/api/section/heatmap?username=AliAlperenCivil&theme=github-dark&mode=dark&style=snake" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AliAlperenCivil/AliAlperenCivil/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AliAlperenCivil/AliAlperenCivil/output/github-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/AliAlperenCivil/AliAlperenCivil/output/github-snake.svg" width="100%" />
+  </picture>
 </p>
