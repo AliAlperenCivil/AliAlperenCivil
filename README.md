@@ -19,9 +19,6 @@
 <p align="center">
   <img src="https://www.gitskins.com/api/section/stack?username=AliAlperenCivil&theme=github-dark&mode=dark" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=AliAlperenCivil&theme=github-dark&mode=dark" alt="Ali Alperen Civil's GitHub Trophies" />
-</p>
 
 ---
 
@@ -75,9 +72,5 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AliAlperenCivil/AliAlperenCivil/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AliAlperenCivil/AliAlperenCivil/output/github-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/AliAlperenCivil/AliAlperenCivil/output/github-snake.svg" width="100%" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/AliAlperenCivil/AliAlperenCivil/output/github-snake-dark.svg" alt="github-snake" width="100%" />
 </p>
