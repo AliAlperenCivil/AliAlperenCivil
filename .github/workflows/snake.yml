@@ -29,10 +29,18 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push snake to output branch
+      - name: Generate language stack SVG
+        continue-on-error: true
+        run: python3 scripts/generate_language_stack.py
+        env:
+          LANG_STATS_TOKEN: ${{ secrets.LANG_STATS_TOKEN }}
+          OUTPUT_PATH: dist/language-stack.svg
+
+      - name: Push assets to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          keep_files: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
