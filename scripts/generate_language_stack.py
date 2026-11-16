@@ -29,6 +29,7 @@ LANG_COLORS = {
     "Dockerfile": "#384d54",
 }
 DEFAULT_COLOR = "#58a6ff"
+EXCLUDED_LANGUAGES = {"TeX", "CMake"}
 
 
 def gh_get(url: str, token: str) -> object:
@@ -61,6 +62,8 @@ def fetch_language_bytes(token: str, exclude_forks: bool = True) -> dict[str, in
                 continue
             langs = gh_get(repo["languages_url"], token)
             for lang, count in langs.items():
+                if lang in EXCLUDED_LANGUAGES:
+                    continue
                 totals[lang] = totals.get(lang, 0) + int(count)
         if len(repos) < 100:
             break
