@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=AliAlperenCivil&theme=github-dark&mode=dark" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/AliAlperenCivil/AliAlperenCivil/output/language-stack.svg" alt="Top Languages" width="100%" />
 </p>
 
 ---
